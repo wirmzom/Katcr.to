@@ -1,4 +1,4 @@
-# Katcr.to
+# Katcr.to hack
 katcr.to utility to get torrent hash without registering
 
 #1
